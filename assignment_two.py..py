@@ -1,0 +1,6 @@
+name = input("What's your name")
+print("Hello there",name, "I am ChatBot")
+located = input("Where are you located")
+print(located,"What a cool place to be from")
+number = input("what is your favorite number")
+print(number,"that is awesome")
